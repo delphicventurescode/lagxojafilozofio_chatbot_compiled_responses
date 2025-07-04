@@ -21,7 +21,7 @@ The *La Gxoja Filozofio Chatbot* is designed to demonstrate that **genuine dialo
 
 ### Features:
 - Speaks the language of *joy, reflection, and grounded living*
-- Offers thoughtful, non-judgmental engagement
+- Offers thoughtful, non-judgmental engagement (most of the time, we hope)
 - Promotes philosophical, ethical, and practical inquiry
 - Designed for open-ended, meaningful interactions
 
