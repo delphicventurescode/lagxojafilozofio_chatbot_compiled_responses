@@ -9,9 +9,9 @@ invitation and then later declined it - for reasons that still seem unclear.
 
 I want to record this as not a "bot conversation screen capture" of the ongoing dialogue between myself and Prof. Wendy Doniger (University of Chicago), as part of the **Samvaad** initiative under *La Gxoja Filozofio*, but rather as an 
 example of how respectful dialogue is possible. However, since she has turned down our request, it is also clear that
-even if respectful dialogue is possible, the requisite outcome will be what would be socially ideal or ideal for the
-individual. Someone who has said or done something controversial or socially suboptimal can simply refuse to come and answer
-questions about their work.
+even if respectful dialogue is possible, the requisite outcome will not always be what would be socially ideal or ideal 
+for the individual. Someone who has said or done something controversial or socially suboptimal can simply refuse 
+to come and answer questions about their work or what they did.
 
 The screenshots illustrate that **genuine, respectful dialogue** — even with eminent scholars of religion and culture,
 even with people with whom we disagree — is not only possible, but also a good thing.
