@@ -4,7 +4,7 @@ This folder contains selected screenshots from an ongoing dialogue between mysel
 
 The screenshots illustrate that **genuine, respectful dialogue** — even with leading technical minds like computer science professors — is not only possible, but enriching.
 
-🗣️ The only personal detail explicitly mentioned is a question I posed to Prof. Raman about his preferred medium of communication (email vs. WhatsApp).
+🗣️ The only personal detail, AFAIK, explicitly mentioned is a question I posed to Prof. Raman about his preferred medium of communication (email vs. WhatsApp).
 
 ---
 
