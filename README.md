@@ -52,6 +52,10 @@ This project is part of a broader movement to bring philosophy **out of the ivor
 - Encourage reflection on what it means to be joyful and alive in a complex world
 
 ---
+Other project were conducted earlier under the la Gxoja Filozofio project. Source code, additional information, et cetera, are available here:
+
+[https://github.com/delphicventurescode/hunda_poezio](https://github.com/delphicventurescode/mjolnireto_poeto)
+---
 
 ## 📬 Want to Contribute?
 
