@@ -11,7 +11,7 @@
 
 Born at the intersection of **ancient wisdom**, **behavioral science**, and **creative practice**, *La Gxoja Filozofio* is not a dry academic framework. It is a **living, breathing approach to life** — designed for thinkers, creators, technologists, parents, teachers, and anyone seeking a more grounded and joyful way to be in the world.
 
-This repository introduces the **La Gxoja Filozofio Chatbot**, the first conversational interface that reflects and engages with this emerging philosophy.
+This repository introduces examples of conversations with the **La Gxoja Filozofio Chatbot**, the first conversational interface that reflects and engages with this emerging philosophy.
 
 ---
 
