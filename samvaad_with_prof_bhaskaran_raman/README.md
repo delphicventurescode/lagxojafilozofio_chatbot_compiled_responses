@@ -29,18 +29,18 @@ The *La Gxoja Filozofio Chatbot* is designed to demonstrate that **genuine dialo
 
 ## 🎙️ Samvaad: Conversations That Matter
 
-The project also features **Samvaad** — a growing collection of real conversations with **professors, industry professionals, creators, and thinkers**. These are presented as living instances of *La Gxoja Filozofio* in action: respectful, joyful, and transformative dialogue.
+The project also features **Samvaad** — a growing collection of samples of real conversations with **professors, industry professionals, creators, and thinkers**. These are presented as living instances of *La Gxoja Filozofio* in action: respectful, joyful, and transformative dialogue.
 
-These conversations are **not interviews**. They are co-constructed explorations meant to showcase what becomes possible when we center presence, curiosity, and joy.
+These conversations are **not interviews**. They are simply conversations.
 
 ---
 
 ## 🔧 Tech Stack
 
-- Chatbot built using [insert your framework/platform here — e.g., LangChain, Rasa, GPT-4 API, etc.]
-- Frontend / UI: [e.g., React, HTML/CSS]
-- Backend: [e.g., Flask, Node.js, Firebase, etc.]
-- Hosted at: [add deployment link if public]
+- Chatbot built using Python, Flask and, of course, our secret sauce
+- Frontend / UI: [confidential - computer technologies, plus our secret sauce]
+- Backend: [confidential - computer technologies, plus our secret sauce]
+- Hosted at: [https://la-gxoja-litebot.onrender.com/]
 
 ---
 
@@ -59,9 +59,6 @@ If you’d like to contribute to the chatbot’s development, suggest improvemen
 
 ---
 
-## 🧠 License
-
-This project is open source and shared under the [MIT License](LICENSE).
 
 ---
 
