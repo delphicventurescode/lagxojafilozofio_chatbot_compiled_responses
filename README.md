@@ -58,6 +58,7 @@ Other project were conducted earlier under the la Gxoja Filozofio project. Sourc
 
 (*) https://github.com/delphicventurescode/mjolnireto_poeto
 
+This is, by no means, a complete list. This is not even half of it. There are many, many repositories on GitHub for La Gxoja Projekto.
 
 ---
 
