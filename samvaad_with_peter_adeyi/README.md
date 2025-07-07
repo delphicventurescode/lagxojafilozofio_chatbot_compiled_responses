@@ -1,7 +1,3 @@
 # README
 
-# README
-
-See other README.md's in this directory.
-
-For example, the main README.md for more information regarding this project and see the other READMEs for additional information (e.g. for info re: the conversation with the chatbot regarding Mr. Anand Manikutty's conversations with Prof. Wendy Doniger & Prof. Michael Witzel and Mr. Anand Manikutty's conversation with Prof. Bhaskaran Raman, see those READMEs).
+See other README.md's in this repository for information related to the project itself. For example, see the main README.md for more information regarding this project and see the other READMEs for additional information (e.g. for info re: the conversation with the chatbot regarding Mr. Anand Manikutty's conversations with Prof. Wendy Doniger & Prof. Michael Witzel and Mr. Anand Manikutty's conversation with Prof. Bhaskaran Raman, see those READMEs). This README has been placed here in case we want to note anything specific to this particular chat with the chatbot, note any buggy behavior, et cetera.
